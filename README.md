@@ -11,6 +11,8 @@ We're going to build a simple program that implements only the very first thing 
 3. Have tests pass locally by running `learn`.
 4. Submit solution.
 
+hi
+
 ## Instructions
 
 1. Run `learn`
